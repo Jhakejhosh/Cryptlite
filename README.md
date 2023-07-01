@@ -1,3 +1,7 @@
+
+visit this url for demo : https://cryptlite.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Lorem ipsum dolor sit amet. Vel dolor unde in dignissimos dolor et repellendus saepe qui laboriosam quia et doloribus repudiandae qui perspiciatis odit. Aut excepturi doloremque 33 sint magnam est culpa exercitationem et blanditiis architecto. Eum provident eveniet in animi corporis aut porro voluptatem hic quia quisquam qui maiores deserunt. 
+
+Aut commodi eius quo voluptate galisum non similique dolore est velit iste. Et iusto dolorem et impedit facilis ex nobis enim et sunt possimus et pariatur cupiditate At error exercitationem. Qui error adipisci rem rerum officia ut fuga molestias vel deleniti consectetur. 
+
+Est iusto reiciendis ab culpa accusantium aut debitis nesciunt eos nisi repellat eos veniam odit ut delectus debitis. Et iste dolorem ab perferendis voluptas aut enim necessitatibus et enim non esse sunt 33 eaque iusto rem consequatur numquam! Qui deserunt earum eos beatae enim et nihil aut neque vero qui alias ipsam in deleniti dignissimos cum porro voluptatem. 
